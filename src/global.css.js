@@ -68,7 +68,13 @@ export default createGlobalStyle`
   }
 
   a {
-    color: ${accent};
+    color: #000;
+    text-decoration:none;
+  }
+
+  a:hover {
+    color: #f0f;
+    margin-bottom: 5px;
   }
 
   pre {

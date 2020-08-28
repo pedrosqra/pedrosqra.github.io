@@ -41,7 +41,7 @@ const Head = ({
       name="apple-mobile-web-app-status-bar-style"
     />
     <meta content={themeColor} name="theme-color" />
-    <meta content={siteTitle} name="application-name" />
+    <meta content="{siteTitle}" name="application-name" />
 
     <meta content="website" property="og:type" />
     <meta content={siteTitle} property="og:site_name" />

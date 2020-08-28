@@ -1,9 +1,9 @@
 const path = require('path');
 
 module.exports = {
-  siteTitle: `Gatsby Universal`,
-  siteTitleShort: `GatsbyU`,
-  siteDescription: `An opinionated starter for Gatsby.`,
+  siteTitle: `Pedro Siqueira`,
+  siteTitleShort: `PS`,
+  siteDescription: `My personal website.`,
   siteUrl: `https://gu.fabianschultz.com`,
   themeColor: `#000`,
   backgroundColor: `#fff`,
