@@ -1,4 +1,4 @@
-Find the repository on GitHub [clicking here](https://github.com/fabe/gatsby-universal).
+Find the repository on GitHub [clicking here](https://github.com/pedrosqra/pedrosqra.github.io).
 
 ```
 I've been studying computer science at the 
