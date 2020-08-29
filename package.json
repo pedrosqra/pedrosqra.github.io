@@ -4,7 +4,7 @@
   "author": "Fabian Schultz <desk@fabianschultz.com>",
   "scripts": {
     "develop": "gatsby develop",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public -b master",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public -b gh-pages",
     "serve": "gatsby serve",
     "ssr": "npm run build && npm run serve",
     "format": "prettier --config ./.prettierrc --write src/**/*.js",
