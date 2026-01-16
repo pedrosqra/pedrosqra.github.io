@@ -1,14 +1,5 @@
+# pedrosqra.github.io
+
 .DS_Store
-node_modules/
-.env
-
-# Logs
-logs
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-.cache/
-public
-build
+*.swp
+*.swo
